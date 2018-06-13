@@ -1,0 +1,13 @@
+c:\users\rik\Source\Repos\DITest\DITest\DITest\bin\Debug\netstandard2.0\DITest.deps.json
+c:\users\rik\Source\Repos\DITest\DITest\DITest\bin\Debug\netstandard2.0\DITest.dll
+c:\users\rik\Source\Repos\DITest\DITest\DITest\bin\Debug\netstandard2.0\DITest.pdb
+c:\users\rik\Source\Repos\DITest\DITest\DITest\obj\Debug\netstandard2.0\DITest.csprojAssemblyReference.cache
+c:\users\rik\Source\Repos\DITest\DITest\DITest\obj\Debug\netstandard2.0\App.xaml.g.cs
+c:\users\rik\Source\Repos\DITest\DITest\DITest\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+c:\users\rik\Source\Repos\DITest\DITest\DITest\obj\Debug\netstandard2.0\DITest.csproj.CoreCompileInputs.cache
+c:\users\rik\Source\Repos\DITest\DITest\DITest\obj\Debug\netstandard2.0\DITest.AssemblyInfoInputs.cache
+c:\users\rik\Source\Repos\DITest\DITest\DITest\obj\Debug\netstandard2.0\DITest.AssemblyInfo.cs
+c:\users\rik\Source\Repos\DITest\DITest\DITest\obj\Debug\netstandard2.0\XamlC.stamp
+c:\users\rik\Source\Repos\DITest\DITest\DITest\obj\Debug\netstandard2.0\DITest.dll
+c:\users\rik\Source\Repos\DITest\DITest\DITest\obj\Debug\netstandard2.0\DITest.pdb
+c:\users\rik\Source\Repos\DITest\DITest\DITest\obj\Debug\netstandard2.0\Views\SplashPage.xaml.g.cs
